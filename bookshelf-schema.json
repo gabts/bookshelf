@@ -1,0 +1,44 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "books": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "year": {
+            "type": "number",
+            "$comment": "Which year I read the book"
+          },
+          "month": {
+            "type": "number",
+            "$comment": "Which month I read the book"
+          },
+          "title": {
+            "type": "string",
+            "$comment": "The title of the book"
+          },
+          "author": {
+            "type": "string",
+            "$comment": "The author of the book"
+          },
+          "release": {
+            "type": "number",
+            "$comment": "The year the book was released"
+          },
+          "score": {
+            "type": "number",
+            "$comment": "My score for the book"
+          }
+        },
+        "required": ["year", "month", "title", "author", "release", "score"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
