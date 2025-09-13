@@ -3,6 +3,14 @@
   "books": [
     {
       "year": 2025,
+      "month": 8,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "release": 1997,
+      "score": 3
+    },
+    {
+      "year": 2025,
       "month": 6,
       "title": "The Mystery Knight",
       "author": "George R. R. Martin",
