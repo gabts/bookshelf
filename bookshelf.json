@@ -3,6 +3,14 @@
   "books": [
     {
       "year": 2025,
+      "month": 9,
+      "title": "Harry Potter and the Chamber of Secrets",
+      "author": "J. K. Rowling",
+      "release": 1998,
+      "score": 3
+    },
+    {
+      "year": 2025,
       "month": 8,
       "title": "Harry Potter and the Philosopher's Stone",
       "author": "J. K. Rowling",
