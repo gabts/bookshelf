@@ -3,6 +3,30 @@
   "books": [
     {
       "year": 2026,
+      "month": 5,
+      "title": "The Path to Power: The Years of Lyndon Jonhson I",
+      "author": "Robert A. Caro",
+      "release": 1982,
+      "score": 5
+    },
+    {
+      "year": 2026,
+      "month": 3,
+      "title": "Rubicon: The Triumph and Tragedy of the Roman Republic",
+      "author": "Tom Holland",
+      "release": 2003,
+      "score": 4
+    },
+    {
+      "year": 2026,
+      "month": 2,
+      "title": "Storm of Steel",
+      "author": " Ernst Jünger",
+      "release": 1920,
+      "score": 5
+    },
+    {
+      "year": 2026,
       "month": 1,
       "title": "Harry Potter and the Goblet of Fire",
       "author": "J. K. Rowling",
@@ -56,14 +80,6 @@
       "author": "J. K. Rowling",
       "release": 1997,
       "score": 3
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "title": "Storm of Steel",
-      "author": " Ernst Jünger",
-      "release": 1920,
-      "score": 5
     },
     {
       "year": 2025,
