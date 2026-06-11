@@ -3,6 +3,14 @@
   "books": [
     {
       "year": 2026,
+      "month": 6,
+      "title": "Means of Ascent: The Years of Lyndon Jonhson II",
+      "author": "Robert A. Caro",
+      "release": 1990,
+      "score": 4
+    },
+    {
+      "year": 2026,
       "month": 5,
       "title": "The Path to Power: The Years of Lyndon Jonhson I",
       "author": "Robert A. Caro",
