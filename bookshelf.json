@@ -3,6 +3,14 @@
   "books": [
     {
       "year": 2026,
+      "month": 8,
+      "title": "The Passage of Power: The Years of Lyndon Jonhson IV",
+      "author": "Robert A. Caro",
+      "release": 2012,
+      "score": 5
+    },
+    {
+      "year": 2026,
       "month": 7,
       "title": "Master of the Senate: The Years of Lyndon Jonhson III",
       "author": "Robert A. Caro",
