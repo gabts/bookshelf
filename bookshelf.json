@@ -3,6 +3,14 @@
   "books": [
     {
       "year": 2026,
+      "month": 10,
+      "title": "Vietnam: An Epic Tragedy, 1945-1975",
+      "author": "Max Hastings",
+      "release": 2018,
+      "score": 4
+    },
+    {
+      "year": 2026,
       "month": 9,
       "title": "The Best and the Brightest",
       "author": "David Halberstam",
