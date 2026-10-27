@@ -4,6 +4,14 @@
     {
       "year": 2026,
       "month": 10,
+      "title": "The Story of China: A Portrait of a Civilisation and Its People",
+      "author": "Michael Wood",
+      "release": 2020,
+      "score": 2.5
+    },
+    {
+      "year": 2026,
+      "month": 10,
       "title": "Vietnam: An Epic Tragedy, 1945-1975",
       "author": "Max Hastings",
       "release": 2018,
@@ -413,7 +421,7 @@
       "year": 2023,
       "month": 8,
       "title": "Blood Meridian",
-      "author": "Cormac Macarthur",
+      "author": "Cormac McCarthy",
       "release": 1985,
       "score": 3
     },
@@ -469,7 +477,7 @@
       "year": 2023,
       "month": 3,
       "title": "Fire & Blood",
-      "author": "George R. R. Margin",
+      "author": "George R. R. Martin",
       "release": 2018,
       "score": 4
     },
@@ -492,7 +500,7 @@
     {
       "year": 2022,
       "month": 10,
-      "title": "A Feats for Crows",
+      "title": "A Feast for Crows",
       "author": "George R. R. Martin",
       "release": 2005,
       "score": 5
@@ -597,7 +605,7 @@
       "year": 2021,
       "month": 8,
       "title": "A Brief History of the Cold War",
-      "author": "John Hughes-Wilso",
+      "author": "John Hughes-Wilson",
       "release": 2014,
       "score": 2
     },
@@ -684,7 +692,7 @@
     {
       "year": 2021,
       "month": 3,
-      "title": "Herrgårdssägnen",
+      "title": "En herrgårdssägen",
       "author": "Selma Lagerlöf",
       "release": 1899,
       "score": 2
