@@ -3,6 +3,22 @@
   "books": [
     {
       "year": 2026,
+      "month": 11,
+      "title": "Winterman och Konsekvenserna",
+      "author": "K. Svensson",
+      "release": 2026,
+      "score": 3.5
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "title": "Wintermans Mysterier",
+      "author": "K. Svensson",
+      "release": 2025,
+      "score": 3.5
+    },
+    {
+      "year": 2026,
       "month": 10,
       "title": "The Story of China: A Portrait of a Civilisation and Its People",
       "author": "Michael Wood",
